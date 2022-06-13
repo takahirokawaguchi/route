@@ -1,0 +1,7 @@
+%#|platex main.tex
+
+\chapter{要求仕様}
+\section{概要}
+virtuoso上でPTLドライバ・レシーバ間にワイア配線と配置を行ったSFQ回路のPTL詳細配線
+
+

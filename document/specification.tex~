@@ -1,0 +1,24 @@
+Welcome to GNU Emacs, one component of the GNU/Linux operating system.
+
+Get help	   <f1>
+Emacs manual	   <f1> r	Browse manuals	   <f1> i
+Emacs tutorial	   <f1> t	Undo changes	   C-x u
+Buy manuals	   <f1> RET	Exit Emacs	   C-x C-c
+Activate menubar   M-`
+(`C-' means use the CTRL key.  `M-' means use the Meta (or Alt) key.
+If you have no Meta key, you may instead type ESC followed by the character.)
+Useful tasks:
+Visit New File			Open Home Directory
+Customize Startup		Open *scratch* buffer
+
+GNU Emacs 23.2.1 (i486-pc-linux-gnu, GTK+ Version 2.20.0)
+ of 2010-12-12 on raven, modified by Debian
+Copyright (C) 2010 Free Software Foundation, Inc.
+
+GNU Emacs comes with ABSOLUTELY NO WARRANTY; type <f1> C-w for full details.
+Emacs is Free Software--Free as in Freedom--so you can redistribute copies
+of Emacs and modify it; type <f1> C-c to see the conditions.
+Type <f1> C-o for information on getting the latest version.
+
+If an Emacs session crashed recently, type Meta-x recover-session RET
+to recover the files you were editing.

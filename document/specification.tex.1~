@@ -1,0 +1,17 @@
+\documentclass[a4j]{jarticle}
+
+\begin{titlepage}
+\begin{center}
+\vspace*{12pt}\\
+{\large\itshape 配線ツール仕様書
+\vspace{6pt} \\
+川口隆広\\
+\today \vspace{12pt} \\
+\end{center}
+\end{titlepage}
+
+\begin{document}
+\chapter{要求仕様}
+\section{概要}
+
+\end{document}

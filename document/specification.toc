@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {第1章}要求仕様}{2}
+\contentsline {section}{\numberline {1.1}概要}{2}
+\contentsline {section}{\numberline {1.2}機能要求}{2}
+\contentsline {chapter}{\numberline {第2章}機能仕様}{3}
+\contentsline {section}{\numberline {2.1}回路を入力}{3}
+\contentsline {section}{\numberline {2.2}配線を行うワイアの選択}{3}
+\contentsline {section}{\numberline {2.3}配置情報を生成}{3}
+\contentsline {section}{\numberline {2.4}外部配線ツールにより配線ルートの生成}{4}
+\contentsline {section}{\numberline {2.5}配線ルートを元にPTL変換可能なワイアの生成}{4}
+\contentsline {section}{\numberline {2.6}対象ワイアのPTL変換}{4}
